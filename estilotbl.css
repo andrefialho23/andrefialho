@@ -1,0 +1,12 @@
+.title{
+        font: 15px Roboto, sans-serif;
+        margin: 5px 5px;
+        color: rgb(60, 60, 60);
+        font-size: 150%;
+}
+.description{
+        font: 15px Roboto, sans-serif;
+        margin: 5px 5px;
+        color: rgb(255, 255, 255);
+        font-size: 100%;
+}
